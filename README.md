@@ -220,7 +220,7 @@ Worked on features like:
 
 A PHP-only live reload package for Laravel local development.
 
-```bash
+
 composer require amirciit/laravel-solo-live-reload
 
 ## 🧪 QA & Developer Tools
